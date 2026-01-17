@@ -1,0 +1,14 @@
+.DS_Store
+node_modules/
+*.log
+.env
+__pycache__/
+
+# AI Corp Communication & Data
+ai-corp/communication/*
+!ai-corp/communication/.gitkeep
+data/*
+!data/.gitkeep
+
+# User specific
+.vscode/
